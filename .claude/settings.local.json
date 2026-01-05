@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.unstablegameswiki.com)",
+      "WebFetch(domain:www.unicornsdatabase.com)",
+      "WebFetch(domain:unstableunicorns.fandom.com)",
+      "WebFetch(domain:unstablegameswiki.com)",
+      "WebFetch(domain:dspace.cuni.cz)",
+      "Bash(python3:*)",
+      "Bash(timeout 10 python3:*)"
+    ]
+  }
+}
